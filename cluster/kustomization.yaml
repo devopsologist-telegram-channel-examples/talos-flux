@@ -5,4 +5,3 @@ resources:
   - 01-victoria-metrics-crds.yaml
   - 02-flux-operator.yaml
   - 03-flux-instance.yaml
-  - ./flux-system
